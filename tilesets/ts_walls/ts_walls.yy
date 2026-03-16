@@ -13,7 +13,7 @@
     "TileSerialiseData":[],
   },
   "name":"ts_walls",
-  "out_columns":9,
+  "out_columns":26,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -23,8 +23,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_tileset_walls",
-    "path":"sprites/spr_tileset_walls/spr_tileset_walls.yy",
+    "name":"Sprite64",
+    "path":"sprites/Sprite64/Sprite64.yy",
   },
   "spriteNoExport":true,
   "textureGroupId":{
@@ -39,5 +39,5 @@
   "tileWidth":64,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":88,
+  "tile_count":660,
 }
