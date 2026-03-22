@@ -15,7 +15,7 @@
   "name":"snd_lever_pull",
   "parent":{
     "name":"Environment",
-    "path":"folders/Sounds/Environment.yy",
+    "path":"folders/Sprites/group/Sounds/Environment.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

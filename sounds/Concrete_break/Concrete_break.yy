@@ -15,7 +15,7 @@
   "name":"Concrete_break",
   "parent":{
     "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "path":"folders/Sprites/group/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
