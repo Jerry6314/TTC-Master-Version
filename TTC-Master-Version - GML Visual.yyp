@@ -181,6 +181,7 @@
     {"id":{"name":"spr_torch_off","path":"sprites/spr_torch_off/spr_torch_off.yy",},},
     {"id":{"name":"spr_white_square","path":"sprites/spr_white_square/spr_white_square.yy",},},
     {"id":{"name":"Sprite64","path":"sprites/Sprite64/Sprite64.yy",},},
+    {"id":{"name":"ttc_ui_background","path":"sprites/ttc_ui_background/ttc_ui_background.yy",},},
     {"id":{"name":"Untitled_design","path":"sprites/Untitled_design/Untitled_design.yy",},},
     {"id":{"name":"Untitled_design63","path":"sprites/Untitled_design63/Untitled_design63.yy",},},
     {"id":{"name":"ts_animations","path":"tilesets/ts_animations/ts_animations.yy",},},
