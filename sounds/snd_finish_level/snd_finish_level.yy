@@ -15,7 +15,7 @@
   "name":"snd_finish_level",
   "parent":{
     "name":"Music",
-    "path":"folders/Sounds/Music.yy",
+    "path":"folders/Sprites/group/Sounds/UI/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -15,7 +15,7 @@
   "name":"snd_shield_loop",
   "parent":{
     "name":"Items",
-    "path":"folders/Sounds/Items.yy",
+    "path":"folders/Sprites/group/Sounds/Items.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

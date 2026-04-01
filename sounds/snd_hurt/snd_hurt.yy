@@ -15,7 +15,7 @@
   "name":"snd_hurt",
   "parent":{
     "name":"Characters",
-    "path":"folders/Sounds/Characters.yy",
+    "path":"folders/Sprites/group/Sounds/Characters.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

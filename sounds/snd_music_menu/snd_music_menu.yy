@@ -15,7 +15,7 @@
   "name":"snd_music_menu",
   "parent":{
     "name":"Music",
-    "path":"folders/Sounds/Music.yy",
+    "path":"folders/Sprites/group/Sounds/UI/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
