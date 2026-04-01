@@ -82,6 +82,7 @@
     {"id":{"name":"path_enemy_4","path":"paths/path_enemy_4/path_enemy_4.yy",},},
     {"id":{"name":"Cart1","path":"rooms/Cart1/Cart1.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},},
     {"id":{"name":"Concrete_break","path":"sounds/Concrete_break/Concrete_break.yy",},},
     {"id":{"name":"snd_baddie_defeated","path":"sounds/snd_baddie_defeated/snd_baddie_defeated.yy",},},
@@ -184,6 +185,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Cart1","path":"rooms/Cart1/Cart1.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
