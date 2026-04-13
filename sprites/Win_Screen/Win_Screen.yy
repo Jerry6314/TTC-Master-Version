@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":2159,
   "bbox_left":0,
-  "bbox_right":2966,
+  "bbox_right":3839,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"c82c2945-eb6a-42e2-8fae-33cfe37561d0","name":"c82c2945-eb6a-42e2-8fae-33cfe37561d0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"11b2a124-07d1-4430-9b3b-57fb0138ca53","name":"11b2a124-07d1-4430-9b3b-57fb0138ca53","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":2160,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"b130a8c4-3cd7-4c43-9cf0-b2e0fe3396ee","blendMode":0,"displayName":"default","isLocked":false,"name":"b130a8c4-3cd7-4c43-9cf0-b2e0fe3396ee","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"01cf53f3-0dc8-456b-9501-47c431579d56","blendMode":0,"displayName":"default","isLocked":false,"name":"01cf53f3-0dc8-456b-9501-47c431579d56","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Win_Screen",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c82c2945-eb6a-42e2-8fae-33cfe37561d0","path":"sprites/Win_Screen/Win_Screen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fce21d97-1ba4-4fc8-93ec-1eee703f030e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"11b2a124-07d1-4430-9b3b-57fb0138ca53","path":"sprites/Win_Screen/Win_Screen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"791363e7-97ce-4d51-bf40-2e123b80db4b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2967,
+  "width":3840,
 }
