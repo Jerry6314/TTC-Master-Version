@@ -1,18 +1,18 @@
 {
   "$GMSound":"v2",
-  "%Name":"Sound1",
+  "%Name":"bgsound",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "channelFormat":0,
-  "compression":3,
+  "channelFormat":1,
+  "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":172.18137,
+  "duration":71.18401,
   "exportDir":"",
-  "name":"Sound1",
+  "name":"bgsound",
   "parent":{
     "name":"ttc commuter rr temp save 2",
     "path":"ttc commuter rr temp save 2.yyp",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Sound1.mp3",
+  "soundFile":"bgsound.mp3",
   "volume":1.0,
 }
